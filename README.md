@@ -1,7 +1,7 @@
 # Software-Engineering
 Cooper Union ECE366 Study Guide courtesy of © Cool Coders Club 2015
 
-In 2015, this guide was generated for the software engineering class at Cooper. It may not contain all the topics the course covers since we were not tested on some topics. The breakup of topics might be off as well. If you would like to contribute to the guide, please do!
+In 2015, this guide was generated for the software engineering class at Cooper. The method started with categorizing all previous quiz questions and answering them in topics that summarized all you needed to know for the topic. It may not contain all the topics the course covers since we were not tested on some topics. The breakup of topics might be off as well. If you would like to contribute to the guide, please do!
 
 The following peeps were instrumental in creating this.
 
